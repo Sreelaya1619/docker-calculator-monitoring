@@ -183,15 +183,18 @@ https://hub.docker.com/r/sreelaya1619/docker-calculator-monitoring
 
 ### Prometheus Metrics
 
-Add Prometheus screenshot here.
+<img width="1359" height="674" alt="image" src="https://github.com/user-attachments/assets/0f663043-a1c6-4b7e-bcdd-0a11d0ac612b" />
+
 
 ### Grafana Dashboard
 
-Add Grafana screenshot here.
+<img width="1359" height="662" alt="image" src="https://github.com/user-attachments/assets/8ee07333-96e7-48f6-bd5e-5297d0f32100" />
+
 
 ### Kibana Logs
 
-Add Kibana Discover screenshot here.
+<img width="1359" height="663" alt="image" src="https://github.com/user-attachments/assets/aa8a2428-c00e-4abb-a842-934489b75028" />
+
 
 ---
 
