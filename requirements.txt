@@ -1,0 +1,2 @@
+streamlit
+prometheus_client
